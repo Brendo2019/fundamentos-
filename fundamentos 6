@@ -1,0 +1,7 @@
+6)	Que dados uma nota fiscal eletrônica possui? Cite todos e o objetivo de ter esses dados?
+
+ Chave, numero da nota, série, Dados do emitente, dados do destinatário (que definem alguns tributações), os tributos 
+frete, os produtos, descontos, dados adicionais, assinatura digital.
+ Tem como objetivo a implantação de um modelo nacional de documento fiscal eletrônico que venha substituir a sistemática 
+atual de emissão do documento fiscal em papel, com validade jurídica garantida pela assinatura digital do remetente 
+simplificando as obrigações acessórias dos contribuintes.
