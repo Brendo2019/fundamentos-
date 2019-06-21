@@ -1,0 +1,10 @@
+12)	Explique para que serve e as principais funcionalidades do Github.
+Git � um sistemas de controle de vers�o.
+
+ Basicamente, � um sistema que registras as mudan�as feitas durante o processo de ciclo de vida em um arquivo ou conjunto 
+de arquivos, oferece recursos mais inteligentes e eficaz de organizar seu projeto, pois � poss�vel acompanhar um hist�rico
+de desenvolvimento, fun��o de recuperar as vers�es anteriores deste arquivo ,desenvolver paralelamente e ainda te oferecer 
+outras vantagens, como exemplo, incluir outros requisitos, finalidades especificas,  sem mexer no projeto principal 
+(99% dos projetos chamado de Master).
+ Git nasceu a partir de um projeto iniciado no Kernel do Linux, a equipe do Linus Torvalds utilizava um outro sistema de 
+controle de vers�o chamado BitKeeper, a partir da necessidade de mais funcionalidades surgiu o Git.
